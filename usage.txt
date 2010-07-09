@@ -1,0 +1,19 @@
+
+Task is a little tool that coud keep track your daily work, 
+and give you a surprise on Friday afternoon:)
+
+Usage:
+
+1. Add new task
+   task add "new task"
+   task a "new task"
+
+2. List tasks of a time range
+   task list 0w 		//list the tasks of this week
+   task l 3d		//list the tasks of 3 days ago
+   task l 1m		//list the tasks of last month
+
+3. Show report of a time range
+   task report 0m		//show report of this month
+   task report 1w		//show report of last week
+
